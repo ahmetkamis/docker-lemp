@@ -1,6 +1,6 @@
 # docker_lemp
 
-A docker container running Nginx, PHP-FPM, Composer, MySQL and PHPMyAdmin.
+A docker container running Nginx, PHP-FPM 8, Composer, MySQL and PHPMyAdmin.
 
 ## Clone the repo
 
