@@ -12,7 +12,7 @@ class ExampleClassTest extends TestCase
         $s = new ExampleClass();
         $a = $s->returnA();
 
-        $this->assertEquals($a, "A");
+        $this->assertEquals("A", $a);
     }
 
 }
