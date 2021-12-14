@@ -1,4 +1,4 @@
-# docker_lemp
+# docker-lemp
 
 A docker container running Nginx, PHP-FPM 8, Composer, MySQL and PHPMyAdmin.
 
