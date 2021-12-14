@@ -2,7 +2,7 @@
 .idea
 .vscode
 .*.swp
-web/app/*
-web/tests/*
-web/app/*
 web/vendor/*
+web/.phpunit*
+docker/data/*
+web/composer.lock

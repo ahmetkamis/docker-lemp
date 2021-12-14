@@ -1,7 +1,7 @@
 <?php
 
-//use \App\ExampleClass;
 //require_once "../vendor/autoload.php";
+//use \App\ExampleClass;
 //$start = new ExampleClass();
 //echo $start->returnA();
 
