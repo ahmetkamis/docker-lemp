@@ -11,5 +11,7 @@ A docker container running Nginx, PHP-FPM, Composer, MySQL and PHPMyAdmin.
 
 
 Web => http://localhost:8000/
+
 PMA =>  http://localhost:8080/
+
 MySQL Host => mysqldb
