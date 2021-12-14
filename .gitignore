@@ -1,0 +1,8 @@
+.DS_Store
+.idea
+.vscode
+.*.swp
+web/app/*
+web/tests/*
+web/app/*
+web/vendor/*
