@@ -4,11 +4,11 @@ A docker container running Nginx, PHP-FPM 8, Composer, MySQL and PHPMyAdmin.
 
 ## Clone the repo
 
-    git clone https://github.com/ahmetkamis/docker_lemp.git
+    git clone https://github.com/ahmetkamis/docker-lemp.git
     
 ## Run the application
 
-    cd docker_lemp
+    cd docker-lemp
     cd docker
     docker-compose up -d
     
