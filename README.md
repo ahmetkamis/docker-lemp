@@ -17,6 +17,7 @@ A docker container running Nginx, PHP-FPM 8, Composer, MySQL and PHPMyAdmin.
     Web => http://localhost:8000/
     PMA =>  http://localhost:8080/
     MySQL Host => mysqldb
+    To connect container MySQL from the Host, use IP : 127.0.0.1 / Port : 8989
 
 
 ## Useful Commands
